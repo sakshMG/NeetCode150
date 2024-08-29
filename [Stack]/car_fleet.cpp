@@ -38,4 +38,3 @@ public:
 // Car cannot overtake 
 // Calculate the time each car would theoretically take 
 // If a car infront takes longer or is equal, becomes part of a fleet 
-// Complete this  
